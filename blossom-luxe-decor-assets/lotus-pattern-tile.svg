@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" fill="none">
+  <defs>
+    <pattern id="lotusPattern" width="200" height="200" patternUnits="userSpaceOnUse">
+      <g stroke="#A48865" stroke-width="2" opacity=".38" transform="translate(100 96)">
+        <path d="M0-50C-18-20-17 18 0 52C17 18 18-20 0-50Z"/>
+        <path d="M-36-20C-54 16-32 42-5 60C-4 22-12-6-36-20Z"/>
+        <path d="M36-20C54 16 32 42 5 60C4 22 12-6 36-20Z"/>
+        <path d="M-58 38C-22 70 22 70 58 38"/>
+      </g>
+    </pattern>
+  </defs>
+  <rect width="600" height="600" fill="url(#lotusPattern)"/>
+</svg>
